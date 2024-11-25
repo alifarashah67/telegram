@@ -1,2 +1,3 @@
-worker: python send-messages.py
+web: python send-messages.py
+
 

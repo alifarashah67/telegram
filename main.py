@@ -97,6 +97,7 @@ class BroadcastBot:
         await update.message.reply_text(
             f"Hello! Welcome\n"
             f"Available commands:\n"
+            f"/Any illegal use or misuse of this bot is the responsibility of the user, and the creator assumes no liability\n"
             f"/send <Message> [Photo URL] - Send message to all groups\n"
             f"/addgroup <Group-ID> - Add new group\n"
             f"/groups - Show list of active groups\n"

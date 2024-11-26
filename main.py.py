@@ -183,7 +183,7 @@ class BroadcastBot:
             await update.message.reply_text(f"❌ Error adding group: {str(e)}")
 
 def main():
-    BOT_TOKEN = "7944302507:AAHOelKz8lOyRSgR0IuMm0pkjj-bfP2Xlsw"
+    BOT_TOKEN = "7944302507:AAH38PgZRPEqPCq6BluIyBfbdSLtNw_ajeY"
     GROUP_IDS = ["-4581627682", "-4050106231", "-4541806770"]
     ALLOWED_USERS = [224921122, 1881464784, 92861319]
 
